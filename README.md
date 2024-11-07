@@ -67,6 +67,15 @@ Stock Market Multi-Dimensional Predictions:
 Forecasting multiple sequential stock prices.
 ![image](https://github.com/user-attachments/assets/f23852e3-a3f2-438d-b5dc-53478d566f92)
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Resources
+Readme: This file for understanding the project setup and usage.
+License: MIT License
+
+
+
 
 
 
